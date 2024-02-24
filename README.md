@@ -1,0 +1,1 @@
+This repository contains a game implemented in Java, that contains a simple implementation of the classic Snake game using Swing. The game consists of a snake that moves around the screen, eating apples to grow longer while avoiding collisions with itself and the borders of the screen.
